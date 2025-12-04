@@ -1,42 +1,98 @@
-# Galactic Run – Unity Endless Runner
+\# Galactic Run
 
-## Overview
-Galactic Run is an endless runner game developed in Unity.  
-The game features randomly generated levels with various obstacles and coins to collect.  
-Objective: run as far as possible while avoiding obstacles and collecting coins to increase your score.
 
-## 🌐 Live Demo
-You can download it and run the .exe locally for better graphic experience OR,
-**WebGL build** – play instantly in your browser:  
-https://play.unity.com/en/games/d9b66d7a-0bc1-49bf-b8d9-fb322080a892/buildweb
 
-## 🎮 Features
-- Endless runner gameplay with random level generation
-- Smooth player movement and camera follow system
-- Obstacle and coin spawning
-- **Persistent high-score** – survives browser refresh
-- User-friendly UI with start, pause, and game over screens
+A 3D endless runner game built with Unity where players navigate through space, avoiding obstacles and collecting coins.
 
-## 🕹️ Controls
-- **Move Left**: Arrow Left  
-- **Move Right**: Arrow Right
 
-## 📁 Project Structure
-- **Assets**: scripts, prefabs, materials, audio, UI elements
-- **Scenes**: MainScene.unity (primary game scene)
-- **Scripts**: core C# scripts for gameplay, movement, generation, UI
-- **ProjectSettings**: Unity project settings
 
-## 🚀 How to Run
-1. Open Unity Hub → add the `Galactic Run` project
-2. Open `MainScene` from the `Scenes` folder
-3. Press **Play** in the Unity Editor
+\## About
 
-## 📦 Builds
-- .EXE (Windows 10)
-- **WebGL**: [Play now](https://play.unity.com/en/games/d9b66d7a-0bc1-49bf-b8d9-fb322080a892/buildweb) – browser, no install
 
-## 📬 Contact
-Panagiotis Papadimitriou  
-GitHub: https://github.com/papadimitrioudev  
-Email: panospdm24@icloud.com
+
+Galactic Run is an arcade-style endless runner featuring procedurally generated levels, smooth controls, and a persistent high-score system.
+
+
+
+\## Features
+
+
+
+\- \*\*Endless Gameplay\*\* - Procedurally generated levels with increasing difficulty
+
+\- \*\*Obstacle Avoidance\*\* - Navigate through randomly spawned obstacles
+
+\- \*\*Coin Collection\*\* - Gather coins to increase your score
+
+\- \*\*Persistent High Score\*\* - Track your best run across sessions
+
+\- \*\*Smooth Controls\*\* - Responsive left/right movement
+
+\- \*\*Dynamic Camera\*\* - Follow system for optimal viewing
+
+
+
+\## Technologies
+
+
+
+\- Unity Engine
+
+\- C# Scripting
+
+\- WebGL Build
+
+\- Windows Standalone Build
+
+
+
+\## Play Now
+
+
+
+\- \*\*Browser (WebGL)\*\*: \[Play Online](https://play.unity.com/en/games/d9b66d7a-0bc1-49bf-b8d9-fb322080a892/buildweb)
+
+\- \*\*Windows\*\*: Download and run the `.exe` for enhanced graphics
+
+
+
+\## Controls
+
+
+
+\- \*\*Arrow Left\*\* - Move left
+
+\- \*\*Arrow Right\*\* - Move right
+
+
+
+\## Development
+
+
+
+1\. Open the project in Unity Hub
+
+2\. Load `MainScene.unity` from the Scenes folder
+
+3\. Press Play to test
+
+
+
+\## Contact
+
+
+
+\- \*\*Email:\*\* panospdm24@icloud.com
+
+\- \*\*GitHub:\*\* \[papadimitrioudev](https://github.com/papadimitrioudev)
+
+\- \*\*Portfolio:\*\* \[papadimitrioudev.netlify.app](https://papadimitrioudev.netlify.app)
+
+
+
+\## License
+
+
+
+© 2025 Panagiotis Papadimitriou. All rights reserved.
+
